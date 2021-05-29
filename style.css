@@ -72,6 +72,17 @@ h4 {
     color: #c0392b;
 }
 
+#form {
+    position: relative;
+}
+
+#warning {
+    position: absolute;
+    top: 58px;
+    right: 10px;
+    color: #d82;
+}
+
 .label {
     display: inline-block;
     margin: 10px 0;
